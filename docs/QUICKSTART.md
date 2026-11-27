@@ -13,7 +13,7 @@ Before you begin, ensure you have the following installed:
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Kriti1908/Decentralized-Charity-Platform.git
+git clone https://github.com/Avh09/Blockchain-Powered-Transparent-Charity-Platform.git
 cd Decentralized-Charity-Platform
 ```
 

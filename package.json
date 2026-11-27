@@ -33,7 +33,7 @@
     "ngo",
     "soulbound-tokens"
   ],
-  "author": "Kriti1908",
+  "author": "Avh09",
   "license": "MIT",
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.0",

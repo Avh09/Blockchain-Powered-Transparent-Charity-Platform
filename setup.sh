@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# filepath: /home/kriti-gupta/Kriti/Courses/SEM5/BWD/Project/Blockchain-Powered-Transparent-Charity-Platform/setup.sh
+# filepath:
 # Setup Script for Blockchain Charity Platform
 # Run this script in a Linux terminal
 
